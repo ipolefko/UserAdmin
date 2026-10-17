@@ -25,3 +25,6 @@ C:\Users\polef\OneDrive\SW fejlesztés\C#WPF\UserAdmin\UserAdmin\obj\Debug\net10
 C:\Users\polef\OneDrive\SW fejlesztés\C#WPF\UserAdmin\UserAdmin\obj\Debug\net10.0-windows\UserAdmin.pdb
 C:\Users\polef\OneDrive\SW fejlesztés\C#WPF\UserAdmin\UserAdmin\obj\Debug\net10.0-windows\UserAdmin.genruntimeconfig.cache
 C:\Users\polef\OneDrive\SW fejlesztés\C#WPF\UserAdmin\UserAdmin\obj\Debug\net10.0-windows\ref\UserAdmin.dll
+C:\Users\polef\OneDrive\SW fejlesztés\C#WPF\UserAdmin\UserAdmin\obj\Debug\net10.0-windows\Views\RegisterPage.g.cs
+C:\Users\polef\OneDrive\SW fejlesztés\C#WPF\UserAdmin\UserAdmin\obj\Debug\net10.0-windows\App.baml
+C:\Users\polef\OneDrive\SW fejlesztés\C#WPF\UserAdmin\UserAdmin\obj\Debug\net10.0-windows\Views\RegisterPage.baml

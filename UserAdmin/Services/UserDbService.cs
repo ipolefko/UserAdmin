@@ -74,7 +74,7 @@ VALUES (@username,@email,@password,@registeredAt)";
             using var connection = new MySqlConnection(ConnectionString);
             connection.Open();
 
-            string sql = @"SELECT `username`, `email`, `password`, `registeredAt` FROM `users` WHERE email = @email";
+            string sql = @"SELECT `Username`, `Email`, `Password`, `RegisteredAt` FROM `users` WHERE Email = @email";
 
             var cmd = new MySqlCommand(sql, connection);
 

@@ -110,7 +110,7 @@ VALUES (@username,@email,@password,@registeredAt)";
             using var connection = new MySqlConnection(ConnectionString);
             connection.Open();
 
-            string sql = @"SELECT `id`,`username`, `email`, `password`, `registeredAt` FROM `users` ORDER BY RegisteredAt";
+            string sql = @"SELECT `Id`,`Username`, `Email`, `Password`, `RegisteredAt` FROM `users` ORDER BY RegisteredAt";
 
             var cmd = new MySqlCommand(sql, connection);
             var reader = cmd.ExecuteReader();

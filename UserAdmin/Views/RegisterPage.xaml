@@ -12,7 +12,7 @@
         <Border Style="{StaticResource CardBorder}" Width="380" HorizontalAlignment="Center" VerticalAlignment="Center">
             <StackPanel>
                 <TextBlock Text="Fiók létrehozása" Style="{StaticResource TitleText}" HorizontalAlignment="Center"/>
-                <TextBlock Text="Add meg az adataid a resitrációhoz" Style="{StaticResource SubtitleText}" HorizontalAlignment="Center" Margin="0,0,0,4"/>
+                <TextBlock Text="Add meg a lenti adatokat!" Style="{StaticResource SubtitleText}" HorizontalAlignment="Center" Margin="0,0,0,4"/>
 
                 <TextBlock Text="Felhasználónév" FontSize="12" Foreground="{StaticResource MutedTextBrush}" Margin="0,0,0,4"/>
                 <TextBox x:Name="UsernameBox"/>
